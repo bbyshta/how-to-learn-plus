@@ -6,3 +6,9 @@
     transform: rotate(360deg);
   }
 }
+
+.rotation {
+  animation: rotation 20s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
